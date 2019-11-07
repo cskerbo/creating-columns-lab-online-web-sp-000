@@ -48,7 +48,7 @@ img:hover {
 
 .column {
   display: flex;
-  flex-wrap: wrap;
+
   width: 100%;
   flex-flow: row wrap;
 
