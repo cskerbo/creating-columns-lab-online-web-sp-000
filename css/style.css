@@ -54,7 +54,7 @@ img:hover {
 }
 
 .small {
-
+  flex-basis: 30%;
 }
 
 .medium {
