@@ -46,6 +46,10 @@ img:hover {
   background-color: #dd4444;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 .column-1{
  display: inline block;
  vertical-align: top;
