@@ -49,8 +49,9 @@ img:hover {
 .column {
   display: grid;
   grid-template:
-    [row1-start] "header header header" 25px [row1-end]
-    [row2-start] "footer footer footer" 25px [row2-end]
+    [row1-start] "small large large " 33% [row1-end]
+    [row2-start] "small large large" 33% [row2-end]
+    [row2-start] "small small small" 33% [row2-end]
     / auto 50px auto;
 }
 .small {
