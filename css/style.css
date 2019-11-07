@@ -49,8 +49,7 @@ img:hover {
 .column {
  display: inline block;
  vertical-align: top;
- height: 33%;
- width: 100%;
+ width: 33%
 
 }
 .small {
