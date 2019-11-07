@@ -46,9 +46,6 @@ img:hover {
   background-color: #dd4444;
 }
 
-* {
-  box-sizing: border-box;
-}
 
 .column{
  width: 30%;
