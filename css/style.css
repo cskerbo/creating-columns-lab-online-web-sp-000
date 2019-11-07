@@ -47,15 +47,12 @@ img:hover {
 }
 
 .column {
-  display: flex;
 
-  width: 100%;
-  flex-flow: row wrap;
 
 }
 
 .small {
-  flex-basis: 33%;
+
 }
 
 .medium {
