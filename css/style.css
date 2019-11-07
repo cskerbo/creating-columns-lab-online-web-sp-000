@@ -50,13 +50,10 @@ img:hover {
   box-sizing: border-box;
 }
 
-.column-1{
- display: inline block;
- vertical-align: top;
- width: 33%;
- margin-right: auto;
- padding: 10px;
-
+.column{
+ width: 30%;
+ display: inline-block;
+}
 
 .small {
   width: 100%;
