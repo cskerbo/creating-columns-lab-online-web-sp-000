@@ -50,6 +50,7 @@ img:hover {
  display: inline block;
  vertical-align: top;
  width: 33%;
+ float:left;
  padding: 10px;
 }
 .column-2{
