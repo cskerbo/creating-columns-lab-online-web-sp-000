@@ -48,11 +48,12 @@ img:hover {
 
 .column {
   display: grid;
-  grid-template:
-    [row1-start] "small large large " 33% [row1-end]
-    [row2-start] "small large large" 33% [row2-end]
-    [row3-start] "small small small" 33% [row3-end]
-    / auto 33% auto;
+  grid-auto-columns: 33%
+  grid-template-areas: 
+    "small large large "
+    "small large large"
+    "small small small"
+    
 }
 .small {
 
