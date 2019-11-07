@@ -49,11 +49,11 @@ img:hover {
 .column {
   display: grid;
   grid-auto-columns: 33%
-  grid-template-areas: 
+  grid-template-areas:
     "small large large "
     "small large large"
     "small small small"
-    
+
 }
 .small {
 
